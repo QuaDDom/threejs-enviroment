@@ -1,4 +1,4 @@
 # threejs-enviroment
 A simple environment made in threejs
 
-##https://quaddom.github.io/threejs-enviroment/
+### https://quaddom.github.io/threejs-enviroment/
